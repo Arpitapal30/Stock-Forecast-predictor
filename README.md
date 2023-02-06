@@ -8,6 +8,9 @@ Split the last year into a test set- to build a model to predict stock price.
 Find short term, & long term trends.
 Understand how it is impacted from external factors or any big external events. Forecast for next 30 days.
 
+# About DataSet
+Adjusted close is the closing price after adjustments for all applicable splits and dividend distributions. Data is adjusted using appropriate split and dividend multipliers, adhering to Center for Research in Security Prices (CRSP) standards
+
 # output
 
 <img width="957" alt="Picture1" src="https://user-images.githubusercontent.com/104680485/216933717-ade14862-ed30-4b64-badb-8997fffcdd58.png">
