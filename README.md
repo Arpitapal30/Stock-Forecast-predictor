@@ -1,4 +1,4 @@
-# Stock-Forecast-predictor
+# stock price prediction using machine learning
 # output
 
 <img width="957" alt="Picture1" src="https://user-images.githubusercontent.com/104680485/216933717-ade14862-ed30-4b64-badb-8997fffcdd58.png">
