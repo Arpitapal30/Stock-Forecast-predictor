@@ -14,10 +14,10 @@ Adjusted close is the closing price after adjustments for all applicable splits 
 
 # Lifecycle in a Data Science Project
 * Data Analysis
-Feature Engineering
-Feature Extraction
-Model Building
-Model Deployment
+* Feature Engineering
+* Feature Extraction
+* Model Building
+* Model Deployment
 
 # output
 
