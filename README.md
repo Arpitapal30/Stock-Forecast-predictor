@@ -11,6 +11,14 @@ Understand how it is impacted from external factors or any big external events. 
 # About DataSet
 Adjusted close is the closing price after adjustments for all applicable splits and dividend distributions. Data is adjusted using appropriate split and dividend multipliers, adhering to Center for Research in Security Prices (CRSP) standards
 
+
+# Lifecycle in a Data Science Project
+Data Analysis
+Feature Engineering
+Feature Extraction
+Model Building
+Model Deployment
+
 # output
 
 <img width="957" alt="Picture1" src="https://user-images.githubusercontent.com/104680485/216933717-ade14862-ed30-4b64-badb-8997fffcdd58.png">
